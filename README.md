@@ -1,6 +1,8 @@
 # Supercell_Challenge
 
-PLease unzip the file and type make in terminal.
+At the moment the Makefile compiler only work with Macos and Linux.
+PLease unzip the file.
+Open the terminal or iterm: Then go to the directory that store the Supercell_Challenge files and type **make**.
 
 The purpose of the game are to avoid the rock and collect the coins. Then go to the black hole and win.
 
